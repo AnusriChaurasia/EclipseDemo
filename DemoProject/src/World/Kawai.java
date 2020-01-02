@@ -8,6 +8,8 @@ public class Kawai {
 		int y = 11;
 		System.out.println("Hello x + y = " + (x+y));
 		System.out.println("Hello x * y = " + (x*y));
+		System.out.println("Hello");
+		
 	
 	} 
 
