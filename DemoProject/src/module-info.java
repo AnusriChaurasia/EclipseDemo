@@ -7,3 +7,4 @@
  */
 module demoProject {
 }
+System.out.println("Hi");
