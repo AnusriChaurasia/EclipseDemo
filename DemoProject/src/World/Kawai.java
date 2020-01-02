@@ -9,6 +9,7 @@ public class Kawai {
 		System.out.println("Hello x + y = " + (x+y));
 		System.out.println("Hello x * y = " + (x*y));
 		System.out.println("Hello");
+		System.out.println("AB hua kya ?");
 		
 	
 	} 
